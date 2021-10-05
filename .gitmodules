@@ -1,0 +1,24 @@
+[submodule "Other projects/Folder-Compressor"]
+	path = Other projects/Folder-Compressor
+	url = https://github.com/PauVal99/Folder-Compressor
+[submodule "Other projects/Schedule-Generator"]
+	path = Other projects/Schedule-Generator
+	url = https://github.com/adriacabeza/Schedule-Generator
+[submodule "Other projects/PROP_2018-2019_Q1"]
+	path = Other projects/PROP_2018-2019_Q1
+	url = https://github.com/mauriciabad/PROP_2018-2019_Q1
+[submodule "Other projects/GeneradorHoraris"]
+	path = Other projects/GeneradorHoraris
+	url = https://github.com/andreugallofre/GeneradorHoraris
+[submodule "Other projects/schedule-generator"]
+	path = Other projects/schedule-generator
+	url = https://github.com/ajcabrera/schedule-generator
+[submodule "Other projects/Wikipedia-PROP"]
+	path = Other projects/Wikipedia-PROP
+	url = https://github.com/AlbertSuarez/Wikipedia-PROP
+[submodule "Other projects/KenKen"]
+	path = Other projects/KenKen
+	url = https://github.com/mapu77/KenKen
+[submodule "Other projects/PROP-FIB"]
+	path = Other projects/PROP-FIB
+	url = https://github.com/MrRobb/PROP-FIB
